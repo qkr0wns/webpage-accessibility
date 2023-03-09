@@ -4,7 +4,7 @@
 
 ## Description
 Given Horiseon's landing page, I updated its codebase to ensure the site meets accessibility standards and is optimized for search engines.
-And to improve future maintenance of the codebase, I cleaned up its HTML and CSS without changing its core appearance.
+And to improve future maintenance of the codebase, I cleaned up its HTML and CSS without changing the page's core appearance.
 
 ## Changenotes
 
@@ -13,9 +13,8 @@ And to improve future maintenance of the codebase, I cleaned up its HTML and CSS
 - Added a more descriptive `title` element.
 - Added descriptive `alt` attributes to images.
 - Updated the background color of the aside to meet WCAG accessibility standards.
-- Fixed navigation link.
-
 ![Horiseon's landing page before and after adjusting color contrast to meet WCAG AAA accessibility standard](https://user-images.githubusercontent.com/115042610/223944297-a6655ffa-16c8-474d-b310-14090fd7b0ac.jpg)
+- Fixed navigation link.
 
 ### Cleaned up HTML and CSS
 
