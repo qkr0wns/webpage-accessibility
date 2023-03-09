@@ -9,7 +9,7 @@ And to improve future maintenance of the codebase, I cleaned up its HTML and CSS
 ## Changenotes
 
 ### Improved SEO and accessibility of Horiseon's landing page
-- Refactored `div`s to semantic HTML elements: `header`, `footer`, `section`, `aside`, `nav`.
+- Refactored `div`s to semantic HTML elements: `header`, `main`, `footer`, `section`, `aside`, `nav`.
 - Added a more descriptive `title` element.
 - Added descriptive `alt` attributes to images.
 - Updated the background color of the aside to meet WCAG accessibility standards.
