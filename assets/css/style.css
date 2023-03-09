@@ -1,4 +1,4 @@
-/* ! Global settings */
+/* ! Global */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -9,7 +9,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/* ! Header bar + logo */
+/* ! Header bar and wordmark logo */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -24,11 +24,10 @@ header h1 {
 }
 
 #logo-seo {
-  /* ? Accessibility: changed from d9dcd6 for contrast */
   color: #d9dcd6;
 }
 
-/* ! Nav menu */
+/* ! Navigation menu */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -51,6 +50,7 @@ a {
   text-decoration: none;
 }
 
+/* ! General paragraph content  */
 p {
   font-size: 16px;
 }
@@ -65,7 +65,7 @@ p {
   background-position: center;
 }
 
-/* ! Main content section + cards */
+/* ! Main section with content cards */
 main {
   width: 75%;
   display: inline-block;
@@ -109,7 +109,7 @@ aside {
   width: 20%;
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  /* ? Changed background from #2589bd for contrast */
+  /* ? Changed aside background from #2589bd for contrast */
   background-color: #195c80;
 }
 
