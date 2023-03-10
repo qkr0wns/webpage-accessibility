@@ -28,7 +28,7 @@ To see the updated Horiseon landing page, go to [https://qkr0wns.github.io/webpa
 To see the HTML and CSS files, inspect the webpage in your browser. Alternatively, view index.html and style.css directly in GitHub, or clone the repository to view them in the code editor of your choice.
 
 ## Credits
-N/A
+Orignal Horiseon website source code from : [UofT SCS Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
 N/A
